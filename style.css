@@ -1,0 +1,217 @@
+.naive {
+    background-color: transparent;   
+}
+
+.logo {
+      padding-left: 2.5vw;
+      width: 5vw;
+}
+
+.nav1 {
+    padding-left: 52vw ;
+    padding-top: 1vw;
+    padding-bottom: 2vw;
+    font-size: 1vw;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+    color: #141414;
+}
+
+.nav {
+    padding-left: 2vw ;
+    padding-top: 1vw;
+    padding-bottom: 2vw;
+    font-size: 1vw;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+    color: #141414;
+}
+
+.background-img {
+
+    background-image: url('aidan-hancock-8RU4OuA6Yug-unsplash.png');
+
+    min-height: 250px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    top: 0;
+
+    margin: 20px;
+    margin-top: 0;
+    width: auto;
+}
+
+.navlink {
+    text-decoration: none;
+    color: #141414;
+}
+.navlink:hover{
+    text-decoration: none;
+    color: #10C9C3;
+}
+
+.fontstuff {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #141414;
+    padding-top: 290px;
+    padding-left: 55%;
+}
+
+.fontstuff2 {
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #787878;
+    padding-left: 55%;
+    padding-right: 55px;
+}
+
+.button1 {
+    background-color: #10C9C3;
+    color: white;
+    border: 2px solid #10C9C3;
+    margin-left: 70vw;
+    padding: 1vw 3.5vw 1vw 3.5vw;
+    font-family: 'Montserrat';
+}
+
+.aboutstuff {
+    font-family: 'Nuniton Sans', sans-serif; 
+    font-size: 15px;
+}
+
+.aboutus {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 3v2;
+    color: #141414;
+}
+
+.signature {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.prog {
+    text-align: left;
+    font-family: "Montserrat";
+    color: #787878;
+    padding-left: 7vw;
+    font-size: 1.25vw;
+    padding-top: 2v2;
+}
+
+.pbars {
+    margin-left: 7vw;
+    background-color: #10c9c3;
+}
+
+.pro {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 3v2;
+    color: #141414;
+    padding-top: 7vw;
+}
+
+.package {
+    float: left;
+    width: 25%;
+}
+
+
+.SERVICES {
+    font-size: 40px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.servimg {
+    padding-left: 45%;
+    padding-top: 6vw;
+    padding-bottom: 3vw;
+    width: 13vw;
+    
+  }
+  .servp {
+    text-align: center;
+    color: #141414;
+    font-family: "Montserrat";
+    font-weight: 500;
+  }
+  .servimg1 {
+    padding-left: 45%;
+    padding-top: 5.8vw;
+    padding-bottom: 2vw;
+    width: 12.5vw;
+    
+  }
+
+  .qrow {
+    padding-top: 10vw;
+    background-color: #10C9C3;
+  }
+
+  .quote {
+    font-family: "Montserrat";
+    color: white;
+    font-size: 2.5vw;
+    text-align: center;
+    scale: .8;
+    padding-left: 300px;
+  }
+
+  .mike {
+    font-family: "Montserrat";
+    color: white;
+    font-size: 1vw;
+    padding-bottom: 7vw;
+    text-align: center;
+    padding-left: 250px;
+  }
+
+  .spons {
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+  }
+  .contactbut {
+    text-decoration: none;
+    color: white;
+  }
+  .contactbut:hover {
+    text-decoration: none;
+    color: white;
+  }
+  .pirolft {
+    color: #ffff;
+    font-size: 1.25vw;
+    font-family: "Nunito Sans";
+    padding-left: 6vw;
+  }
+  .footp {
+    background-color: #141414;
+    color: #a19f9f;
+    font-family: "Nunito Sans";
+    font-size: 0.8vw;
+    
+  }
+  .foot{
+    padding-top:5vw;
+    background-color: #141414;
+    color: #a19f9f;
+    text-align: left;
+    
+    padding-bottom: 5vw;
+  }
